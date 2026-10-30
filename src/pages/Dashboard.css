@@ -1,0 +1,4 @@
+.stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--spacing-16); margin-bottom: var(--spacing-32); }
+.stat-card { padding: var(--spacing-16) var(--spacing-32) var(--spacing-16) var(--spacing-16); }
+.stat-card__label { font-size: var(--text-12); font-weight: 600; color: var(--gray-600); text-transform: uppercase; letter-spacing: 0.04em; }
+.stat-card__value { margin-top: var(--spacing-8); font-size: var(--text-32); font-weight: 600; line-height: 1.1; letter-spacing: -0.02em; }

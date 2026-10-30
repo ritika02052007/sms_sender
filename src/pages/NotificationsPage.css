@@ -1,0 +1,2 @@
+.notification__body { max-width: 360px; color: var(--gray-700); }
+.notification__error { margin-top: var(--spacing-4); color: var(--red-700); font-size: var(--text-12); }

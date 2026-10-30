@@ -1,0 +1,2 @@
+.waitlist__count { margin: var(--spacing-16) 0 0; color: var(--gray-600); font-size: var(--text-12); }
+.waitlist__position { font-variant-numeric: tabular-nums; font-weight: 600; }
